@@ -1,0 +1,16 @@
+body {
+    width: 80%;
+    margin: 0 auto;
+  }
+  img {
+    width: 50%;
+  }
+  .background {
+    background-color: #B3DDF2;
+  }
+  .text-color {
+    color: #FF0000;
+  }
+  .center {
+    text-align: center;
+  }
